@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+a{
+	text-decoration:none;
+	color:black;
+}
+
+.player_one{
+
+	border:1px solid grey;
+	border-radius:10px;
+	background-color:white;	
+	
+}
